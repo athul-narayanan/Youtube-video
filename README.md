@@ -1,7 +1,7 @@
 # Youtube video player
 
 This application is designed to search and play youtube videos where user is allowded to search anything and the corresponding video will be diaplayed on the screen.
-user can select a video and play the corresponding video.
+user can select a video and play the corresponding video. Google Youtube Api is used to get the list of videos.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
